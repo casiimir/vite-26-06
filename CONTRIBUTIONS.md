@@ -6,3 +6,4 @@
 - Luna Raimondo
 - Matteo Norrito
 - Giovanni Geraci
+- Martina Piras

@@ -1,0 +1,11 @@
+.Prize {
+  width: 80%;
+  background-color: white;
+  color: black;
+  font-size: 4rem;
+  margin: 0 auto;
+}
+
+.Prize a {
+  color: red;
+}
