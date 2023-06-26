@@ -4,11 +4,8 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Toggle from "./components/Toggle";
 import Prize from "./components/Prize";
-<<<<<<< HEAD
 import Magic from "./components/Magic";
-=======
 import Dino from "./components/Dino";
->>>>>>> 1bb72f10170d929c115c9df071af042cab873b0a
 
 function App() {
   const [count, setCount] = useState(0);
