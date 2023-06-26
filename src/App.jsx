@@ -3,6 +3,8 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Toggle from "./components/Toggle";
 import Prize from "./components/Prize";
+import ClickMe from "./components/ClickMe";
+import Dino from "./components/Dino/Dino";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -17,7 +19,11 @@ function App() {
           count is {count}
         </button>
       </div>
+      <Dino />
       <Prize />
+      <p className="read-the-docs">
+        Click on the Vite and React logos to learn more
+      </p>
     </>
   );
 }
