@@ -1,3 +1,5 @@
 # Contributors
 
-- Federico
+- Andrea Paracino
+- Federico Borrometi
+- Salvo Falcone

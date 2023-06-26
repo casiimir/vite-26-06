@@ -1,0 +1,55 @@
+.Toggle {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: black;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Toggle,
+.Toggle-label {
+  border-radius: 15px;
+  position: relative;
+}
+
+.Toggle-info {
+  color: white;
+}
+
+.Toggle-checkbox {
+  display: none;
+}
+
+.Toggle-label {
+  width: 60px;
+  height: 30px;
+  border-radius: 15px;
+  background-color: #ddd;
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.Toggle-switch {
+  display: block;
+  width: 45%;
+  height: 80%;
+  border-radius: 15px;
+  background-color: white;
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  transition: left 0.3s;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+}
+
+.Toggle-checkbox:checked + .Toggle-label {
+  background-color: lightgreen;
+}
+
+.Toggle-checkbox:checked + .Toggle-label .Toggle-switch {
+  left: 50%;
+}
