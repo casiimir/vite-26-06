@@ -20,8 +20,7 @@ const Magic = () => {
             src="https://www.youtube.com/embed/QH2-TGUlwu4"
             width="560"
             height="315"
-            frameborder="0"
-            allowfullscreen="allowfullscreen"
+            allowFullScreen="allowfullscreen"
           ></iframe>
         </div>
       </div>
