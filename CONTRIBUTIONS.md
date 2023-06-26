@@ -19,4 +19,5 @@
 - Marina Valenza
 - Michela Cerma
 - Ivan Alva
--Giuseppe Riccardo Lentini
+- Giuseppe Riccardo Lentini
+- Davide Chiarelli
