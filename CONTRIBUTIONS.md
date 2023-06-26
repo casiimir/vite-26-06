@@ -15,3 +15,4 @@
 - Stefano Are
 - Gabriele Salemi
 - Nina
+- Marina Valenza
