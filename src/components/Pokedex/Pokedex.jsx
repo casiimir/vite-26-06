@@ -13,7 +13,7 @@ const Pokedex = () => {
 
   return (
     <div className="Pokedex">
-      <h2>{pokemon.name}</h2>
+      <h2 className="Pokemon__Title">{pokemon.name}</h2>
       <img
         src={pokemon?.sprites?.front_default}
         alt="pokemon image"

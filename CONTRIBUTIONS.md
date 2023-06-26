@@ -13,3 +13,8 @@
 - Francesco Imperiale
 - Daniel Turcanu
 - Stefano Are
+- Gabriele Salemi
+- Nina
+- Giuseppe Talluto
+- Marina Valenza
+- Michela Cerma
