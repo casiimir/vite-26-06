@@ -16,3 +16,4 @@
 - Gabriele Salemi
 - Nina
 - Marina Valenza
+-Giuseppe Riccardo Lentini
