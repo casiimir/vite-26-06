@@ -13,3 +13,4 @@
 - Francesco Imperiale
 - Daniel Turcanu
 - Stefano Are
+- Gabriele Salemi
