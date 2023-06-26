@@ -15,8 +15,5 @@
 - Stefano Are
 - Gabriele Salemi
 - Nina
-<<<<<<< HEAD
 - Giuseppe Talluto
-=======
 - Marina Valenza
->>>>>>> de2e9bdfc8a9c0e51de407308c80563675edd715
