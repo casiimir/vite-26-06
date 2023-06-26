@@ -4,3 +4,4 @@
 - Federico Borrometi
 - Salvo Falcone
 - Luna Raimondo
+- Matteo Norrito
