@@ -10,3 +10,4 @@
 - Lorenzo Fraterrigo Garofalo
 - Claudio Ventimiglia
 - Mirko Montaina
+- Francesco Imperiale
