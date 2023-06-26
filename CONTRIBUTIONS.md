@@ -5,3 +5,4 @@
 - Salvo Falcone
 - Luna Raimondo
 - Matteo Norrito
+- Giovanni Geraci
