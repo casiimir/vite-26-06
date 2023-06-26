@@ -1,0 +1,30 @@
+.dino {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.dino__active {
+  animation-name: dinomatic, dinomatic2;
+  animation-duration: 30s, 1s;
+  animation-timing-function: ease-in;
+  animation-delay: 0s, 30s;
+}
+
+@keyframes dinomatic {
+  from {
+    transform: rotate(3deg);
+  }
+  to {
+    transform: rotate(50000deg);
+  }
+}
+@keyframes dinomatic2 {
+  100% {
+    transform: scale(50);
+    top: 50%;
+    right: 50%;
+  }
+}

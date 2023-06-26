@@ -12,3 +12,6 @@
 - Mirko Montaina
 - Francesco Imperiale
 - Daniel Turcanu
+- Stefano Are
+- Gabriele Salemi
+- Nina
