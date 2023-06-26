@@ -11,3 +11,4 @@
 - Claudio Ventimiglia
 - Mirko Montaina
 - Francesco Imperiale
+- Daniel Turcanu
