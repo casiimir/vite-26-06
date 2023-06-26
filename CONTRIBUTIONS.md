@@ -10,3 +10,7 @@
 - Lorenzo Fraterrigo Garofalo
 - Claudio Ventimiglia
 - Mirko Montaina
+- Francesco Imperiale
+- Daniel Turcanu
+- Stefano Are
+- Gabriele Salemi
