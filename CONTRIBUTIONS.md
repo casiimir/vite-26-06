@@ -17,3 +17,4 @@
 - Nina
 - Giuseppe Talluto
 - Marina Valenza
+- Michela Cerma
