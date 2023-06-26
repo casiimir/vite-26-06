@@ -1,0 +1,14 @@
+.ClickMe:hover {
+  animation: clickMe 1s;
+  user-select: none;
+  transform: translate(-1000px);
+}
+
+@keyframes clickMe {
+  from {
+    transform: translate(0);
+  }
+  to {
+    transform: translate(-1300px);
+  }
+}
