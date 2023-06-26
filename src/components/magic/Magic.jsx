@@ -15,13 +15,7 @@ const Magic = () => {
       </button>
       <div className={`${isModalOn ? "isModalOn" : ""} MagicModal`}>
         <div className="MagicModal--video">
-          <iframe
-            loading="lazy"
-            src="https://www.youtube.com/embed/QH2-TGUlwu4"
-            width="560"
-            height="315"
-            allowFullScreen="allowfullscreen"
-          ></iframe>
+          <img className="MagicModal--image" src="https://media.tenor.com/2roX3uxz_68AAAAC/cat-space.gif" alt="nyanCat" />
         </div>
       </div>
     </>

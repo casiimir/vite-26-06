@@ -30,8 +30,8 @@
   visibility: visible;
 }
 
-.MagicModal--video {
+.MagicModal--image {
   position: absolute;
-  left: calc(50% - 280px);
-  top: calc(50% - 150px);
+  left: calc(50% - 249px);
+  top: calc(50% - 249px);
 }
