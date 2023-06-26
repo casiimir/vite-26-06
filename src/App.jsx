@@ -4,7 +4,11 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Toggle from "./components/Toggle";
 import Prize from "./components/Prize";
+<<<<<<< HEAD
 import ClickMe from "./components/ClickMe";
+=======
+import Dino from "./components/Dino";
+>>>>>>> 4936dc3c6df5a6df73d18ef9e6be7ed8cb924b3c
 
 function App() {
   const [count, setCount] = useState(0);
@@ -29,6 +33,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
+      <Dino />
       <Prize />
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
