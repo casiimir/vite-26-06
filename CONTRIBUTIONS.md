@@ -8,3 +8,4 @@
 - Giovanni Geraci
 - Martina Piras
 - Lorenzo Fraterrigo Garofalo
+- Claudio Ventimiglia
