@@ -7,3 +7,4 @@
 - Matteo Norrito
 - Giovanni Geraci
 - Martina Piras
+- Lorenzo Fraterrigo Garofalo
