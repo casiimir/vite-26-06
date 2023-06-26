@@ -1,7 +1,6 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
+import Navbar from "./components/Navbar";
 import Toggle from "./components/Toggle";
 import Prize from "./components/Prize";
 import Magic from "./components/Magic";
@@ -22,12 +21,18 @@ function App() {
       </div>
       <Magic />
       <Toggle />
-      <h1>Vite + React</h1>
+      <h1>Ciao Belli</h1>
       <div className="card">
+<<<<<<< HEAD
         <button onClick={() => setCount((count) => count + 1)}>count is {count}</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+=======
+        <button onClick={() => setCount((count) => count - 0.23)}>
+          count is {count}
+        </button>
+>>>>>>> fac8d8151cf1b7c33e2414b3a59b8d4f019f712a
       </div>
       <Dino />
       <Prize />
